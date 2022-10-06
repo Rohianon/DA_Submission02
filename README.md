@@ -19,3 +19,9 @@ I would build a machine learning pipeline for this model as follows:
 
 ## Measuring the impact of the model
 I would measure the impact of the model on the company's operations by comparing the MSE of the predictions made by the model with the MSE of the predictions made by a baseline model. If the MSE of the predictions made by the model is lower than the RMSE of the predictions made by the baseline model, then the model is having a positive impact on the company's operations.
+
+
+## Future models:
+- Use Kalman Filters for time series data.
+- Apply an LSTM (Deep Learning Model).
+- LSTM with Attention Layer.
